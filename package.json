@@ -14,7 +14,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "echo 'under construction...' && exit(0)",
+    "test": "echo 'under construction...' && exit 0",
     "release": "node ./scripts/release.js"
   },
   "devDependencies": {
