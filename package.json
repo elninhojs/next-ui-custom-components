@@ -2,6 +2,13 @@
   "name": "next-ui-custom-components",
   "version": "0.1.0",
   "private": true,
+  "main": "lib/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Eugenio Filho",
+    "email": "g4ninh0@gmail.com",
+    "url": "https://github.com/elninhojs"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
