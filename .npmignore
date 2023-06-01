@@ -1,0 +1,10 @@
+.next
+script
+node_modules
+public
+src
+coverage
+.gitignore
+.eslintrc.json
+next.config.js
+jsconfig.json
