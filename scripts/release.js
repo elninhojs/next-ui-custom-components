@@ -27,7 +27,7 @@ const hasTag = async({version}) =>{
     return existentTags.indexOf(version)!==-1
 }
 
-const newReleaseLink = ({version}) => `https://github.com/elninhojs/react-ui-custom-components/releases/new?tag=v${version}`
+const newReleaseLink = ({version}) => `https://github.com/elninhojs/next-ui-custom-components/releases/new?tag=v${version}`
 
 
 const doGitStuff = async ({version, releaseType}) =>{
