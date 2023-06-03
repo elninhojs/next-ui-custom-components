@@ -1,7 +1,7 @@
 {
   "name": "next-ui-custom-components",
   "version": "0.1.3",
-  "main": "lib/index.jsx",
+  "main": "lib/index.js",
   "license": "MIT",
   "author": {
     "name": "Eugenio Filho",

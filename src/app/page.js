@@ -1,7 +1,7 @@
 'use client'
 import Image from 'next/image'
 import styles from './page.module.css'
-import ResponsiveGrid from '../../lib/components/responsive-grid'
+import {ResponsiveGrid} from '../../lib'
 
 export default function Home() {
   return (
