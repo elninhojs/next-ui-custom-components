@@ -43,5 +43,3 @@ export default function ResponsiveGrid({ cols, colsBig, colsMedium, colsSmall, c
 `}</style>
     </div>);
 }
-
-
